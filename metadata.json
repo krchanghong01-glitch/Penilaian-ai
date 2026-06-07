@@ -1,0 +1,6 @@
+{
+  "name": "KR AutoGrader Offline",
+  "description": "100% offline auto-grading application with OCR and LLM",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
